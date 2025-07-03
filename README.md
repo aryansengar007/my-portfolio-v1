@@ -3,7 +3,7 @@
 A responsive and animated portfolio website built using React.js, React Router, and Framer Motion to showcase my skills, projects, education, certifications, and contact details.
 
 ## 🔗 Live Demo
-[https://aryan-sengar-portfolio.netlify.app/](https://aryan-sengar-portfolio.netlify.app/)
+[https://aryan-sengar-portfolio-v1.netlify.app/](https://aryan-sengar-portfolio-v1.netlify.app/)
 
 ## 🧠 About the Project
 
