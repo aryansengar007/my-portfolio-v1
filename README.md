@@ -60,8 +60,6 @@ The site is deployed on **Netlify**. To deploy:
 - Drag the `/build` folder into Netlify dashboard
 - Add a `_redirects` file in `public/` with:
   ```
-  /*    /index.html   200
----
 
 ### 👤 Author
 
