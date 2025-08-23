@@ -65,3 +65,10 @@ The site is deployed on **Netlify**. To deploy:
 
 **Aryan Sengar**  
 [GitHub](https://github.com/aryansengar007) • [LinkedIn](https://www.linkedin.com/in/aryan-sengar-786b96290/)
+
+---
+© 2025 Aryan Sengar – All Rights Reserved  
+Unauthorized copying is strictly prohibited.
+---
+
+> 💬 *Feel free to drop a ⭐ if you find this helpful!*
