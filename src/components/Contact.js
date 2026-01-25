@@ -13,7 +13,7 @@ const Contact = () => (
     <br />
     <h2>Contact Me</h2>
     <br />
-    <form action="https://formspree.io/f/xyzjnqwy" method="POST">
+    <form action="https://formbold.com/s/3ZQjP" method="POST">
         &nbsp;&nbsp; &nbsp;<label>Name :&nbsp;&nbsp;</label>
       <input type="text" name="name" required />
 
@@ -39,5 +39,6 @@ const Contact = () => (
     </div>
   </motion.section>
 );
+
 
 export default Contact;
