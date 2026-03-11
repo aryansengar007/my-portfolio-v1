@@ -13,7 +13,7 @@ const Hero = () => (
 
     <h1>Hi, I am Aryan Sengar</h1>
     <div className="cta-buttons">
-      <a href="https://drive.google.com/file/d/1i7ks3CxxfQ-rCn7pj5uBDtQevKBH9hhr/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn">View Resume</a> |
+      <a href="https://drive.google.com/file/d/1umVUp4yA27HEqnmpqU8JTDH30tUrzHUs/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn">View Resume</a> |
       <a href="/projects" className="btn"> View Projects</a> |
       <a href="/contact" className="btn"> Contact Me</a> |
       <a href="https://github.com/aryansengar007" target="_blank" rel="noopener noreferrer" className="btn"> GitHub</a> |
@@ -22,5 +22,6 @@ const Hero = () => (
     </div>
   </motion.section>
 );
+
 
 export default Hero;
