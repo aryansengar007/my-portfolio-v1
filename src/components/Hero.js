@@ -13,7 +13,7 @@ const Hero = () => (
 
     <h1>Hi, I am Aryan Sengar</h1>
     <div className="cta-buttons">
-      <a href="https://drive.google.com/file/d/1umVUp4yA27HEqnmpqU8JTDH30tUrzHUs/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn">View Resume</a> |
+      <a href="https://drive.google.com/file/d/1i3CRYHQ9KwLbZS-V6ThmGtK8ZweMJQt4/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn">View Resume</a> |
       <a href="/projects" className="btn"> View Projects</a> |
       <a href="/contact" className="btn"> Contact Me</a> |
       <a href="https://github.com/aryansengar007" target="_blank" rel="noopener noreferrer" className="btn"> GitHub</a> |
