@@ -250,7 +250,7 @@ Add a `_redirects` file inside the `public/` folder with the following content:
 
 ### Aryan Sengar
 
-🎓 **B.Tech CSE (AI & ML)** @ The NorthCap University &nbsp;|&nbsp; 🌍 Gurgaon, India
+🎓 **B.Tech CSE (AI & ML)** &nbsp;|&nbsp; 🌍 Gurgaon, India
 
 <br/>
 
